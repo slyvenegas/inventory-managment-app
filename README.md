@@ -66,7 +66,7 @@ Perfecto para desarrolladores que buscan dominar el desarrollo web moderno, apre
 ### Clonar y Ejecutar
 
 ```bash
-git clone https://github.com/yourusername/nextjs-fullstack-inventory.git
+git clone https://github.com/yourusername/inventory-managment-app
 cd nextjs-fullstack-inventory
 npm install
 ```
